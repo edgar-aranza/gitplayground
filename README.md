@@ -1,2 +1,2 @@
 # gitplayground
-This is just a repo for testing git commands
+This is just a test repo for testing git commands
